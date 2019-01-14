@@ -8,7 +8,7 @@ To stop VNC Server, run this command:
 
 `vncserver-stop`
 
-It is important to run `vncserver-stop command` before closing the distro to exit successfully.
+It is important to run `vncserver-stop` command before closing the distro to exit successfully.
 
 Both `vncserver-start` and `vncserver-stop` scripts are located at /usr/local/bin in the distro, which is corresponding to these file:
 
