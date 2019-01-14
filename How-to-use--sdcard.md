@@ -10,15 +10,15 @@ To edit sdcard component with AnLinux, you need to edit the start-*.sh script, w
 
 2. Run this command in Termux to install [nano](https://www.nano-editor.org) editor:
 
-`pkg update && pkg install nano`
+    `pkg update && pkg install nano`
 
 3. Then you must edit the start-*.sh script and uncomment this line:
 
-`#command+=" -b /sdcard"`
+    `#command+=" -b /sdcard"`
 
-so it become:
+   so it become:
 
-`command+=" -b /sdcard"`
+    `command+=" -b /sdcard"`
 
 4. Press CTRL + X and then press y, then press ENTER to save the file.
 
