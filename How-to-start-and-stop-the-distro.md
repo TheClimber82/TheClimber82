@@ -28,7 +28,7 @@ openSUSE Leap: `./start-leap.sh`
 
 Arch Linux: `./start-arch.sh`
 
-Black Arch: Not needed as installed on Arch Linux, simply use the AnLinux command.
+Black Arch: Not needed as installed on Arch Linux, simply use the Arch Linux command.
 
 Alpine: `./start-alpine.sh`
 
