@@ -1,5 +1,7 @@
 ## How to start the distro:
 
+Requirement: distro installed
+
 First you must open Termux, usually the script is located at Termux home folder. You could run this command to see if the script is available, remember to check in the app, do not confuse openSUSE with openSUSE Leap or openSUSE Tumbleweed:
 
 `ls`
