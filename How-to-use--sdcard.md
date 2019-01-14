@@ -10,7 +10,6 @@ Run this command in Termux to install [nano](https://www.nano-editor.org) editor
 
 `pkg update && pkg install nano`
 
-Then you must edit the start-*.sh script and uncomment these line as following:
+Then you must edit the start-*.sh script and uncomment this line:
 
-`## uncomment the following line to mount /sdcard directly to /`
-`#command+=" -b /sdcard"`
+[](https://github.com/EXALAB/AnLinux-Resources/blob/master/Scripts/Sample/sample1.sh#L1)
