@@ -1,6 +1,6 @@
 ## How to connect to VNC Server
 
-Requirement: Distro and Desktop Environment installed.
+### Requirement: Distro and Desktop Environment installed.
 
 After that, run this command:
 
