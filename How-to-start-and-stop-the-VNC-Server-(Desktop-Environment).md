@@ -1,4 +1,4 @@
-## How to start and stop VNC Server.
+## How to start and stop the VNC Server (Desktop Environment)
 
 To start VNC Server, run this command:
 
