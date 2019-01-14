@@ -1,10 +1,10 @@
-##How to start the distro:
+## How to start the distro:
 
 First you must open Termux, usually the script is located at Termux home folder. You could run this command to see if the script is available, remember to check in the app, do not confuse openSUSE with openSUSE Leap or openSUSE Tumbleweed:
 
 `ls`
 
-##Below is the command of how to start the distro:
+## Below is the command of how to start the distro:
 
 Ubuntu: `./start-ubuntu.sh`
 
@@ -33,7 +33,7 @@ Black Arch: Not needed as installed on Arch Linux, simply use the Arch Linux com
 Alpine: `./start-alpine.sh`
 
 
-##And to exit the distro:
+## And to exit the distro:
 
 If you have VNC Server(Desktop Environment) Running, run this command to stop VNC Server(Desktop Environment) first: 
 
