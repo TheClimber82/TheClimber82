@@ -35,7 +35,7 @@ Alpine: `./start-alpine.sh`
 
 And to exit the distro:
 
-If you have VNC Server Running, run this command to stop VNC Server first: 
+If you have VNC Server(Desktop Environment) Running, run this command to stop VNC Server(Desktop Environment) first: 
 
 `vncserver-stop`
 
