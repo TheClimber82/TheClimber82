@@ -1,6 +1,6 @@
 ## How to start and stop the VNC Server (Desktop Environment)
 
-Requirement: Desktop Environment installed
+### Requirement: Desktop Environment installed
 
 To start VNC Server, run this command:
 
