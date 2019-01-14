@@ -41,4 +41,4 @@ If you have VNC Server Running, run this command to stop VNC Server first:
 
 Then you can simply run `exit` to exit the distro.
 
-For more info about Desktop Environment, see [here](https://github.com/EXALAB/AnLinux-App/wiki/How-to-start-and-stop-the-VNC-Server-%28Desktop-Environment%29)
+For more info about VNC Server, see [here](https://github.com/EXALAB/AnLinux-App/wiki/How-to-start-and-stop-the-VNC-Server-%28Desktop-Environment%29)
