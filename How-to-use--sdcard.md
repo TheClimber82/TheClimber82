@@ -12,4 +12,4 @@ Run this command in Termux to install [nano](https://www.nano-editor.org) editor
 
 Then you must edit the start-*.sh script and uncomment this line:
 
-[](https://github.com/EXALAB/AnLinux-Resources/blob/master/Scripts/Sample/sample1.sh#L1)
+[#command+=" -b /sdcard"](https://github.com/EXALAB/AnLinux-Resources/blob/master/Scripts/Sample/sample1.sh#L1)
