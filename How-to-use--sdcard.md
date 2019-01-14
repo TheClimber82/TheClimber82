@@ -1,5 +1,7 @@
 ## Note
 
+### Requirement: Distro installed
+
 The sdcard here means Internal Storage, which is /sdcard, also known as /storage/emulated/0/sdcard, do not be confused with External Sdcard, please make sure you have granted Termux Storage permission before doing this, if not sure, view Termux's permission in App Info.
 
 To edit sdcard component with AnLinux, you need to edit the start-*.sh script, which is used to start the distro as stated [here:](https://github.com/EXALAB/AnLinux-App/wiki/How-to-start-and-stop-the-distro). 
