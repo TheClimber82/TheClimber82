@@ -12,5 +12,5 @@ Run this command in Termux to install [nano](https://www.nano-editor.org) editor
 
 Then you must edit the start-*.sh script and uncomment these line as following:
 
-`## uncomment the following line to mount /sdcard directly to / 
-#command+=" -b /sdcard"`
+`## uncomment the following line to mount /sdcard directly to /`
+`#command+=" -b /sdcard"`
