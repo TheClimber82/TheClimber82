@@ -6,7 +6,7 @@ Do you want to delete it? [Y/n] `
 
 You can run these command to solve the issue:
 
-`# pacman-key --init`
-`# pacman-key --populate archlinuxarm`
+`# pacman-key --init
+# pacman-key --populate archlinuxarm`
 
 For more info, see here: [https://archlinuxarm.org/forum/viewtopic.php?f=65&t=12796](https://archlinuxarm.org/forum/viewtopic.php?f=65&t=12796)
