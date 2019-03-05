@@ -7,5 +7,5 @@
 * [[How to start and stop the VNC Server (Desktop Environment)]]
 * [[How to connect to VNC Server]]
 * [[How to change the resolution of VNC Server]]
-* [[How to backup and move AnLinux distro to another device]]
+* [[How to backup and move Linux distro to another device]]
 * [[Is it possible to install multiple distro on a device ?]]
