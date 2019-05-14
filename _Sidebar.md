@@ -9,3 +9,4 @@
 * [[How to change the resolution of VNC Server]]
 * [[How to backup and move Linux distro to another device]]
 * [[Is it possible to install multiple distro on a device ?]]
+* [[Guide to solve Proot signal 6, or function not implemented error]]
